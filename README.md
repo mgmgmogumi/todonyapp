@@ -1,4 +1,4 @@
-# my-project
+# todo nyapp
 
 ## Project setup
 ```
